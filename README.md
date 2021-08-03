@@ -1,2 +1,2 @@
 # Space-invaders
-sSpace invader game made using python
+Space invader game made using python
